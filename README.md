@@ -1,1 +1,1 @@
-# Classic-Calculator-Shell-Scripting-
+# Calculator-Shell-Scripting
